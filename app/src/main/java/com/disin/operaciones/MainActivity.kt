@@ -10,4 +10,8 @@ class MainActivity : AppCompatActivity() {
         //this a master
         //this a develop
     }
+
+    fun sumar(){
+
+    }
 }
