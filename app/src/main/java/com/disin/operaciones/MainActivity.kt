@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sumar(){
-
+    val number = 1+2
     }
 }
