@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     fun sumar() {
         val number2 = 0
-        val number = 1 + 2 + 3 + 4 + 5 + 6
+        val number = 1 + 2 + 3 + 4 + 5 + 6 + 7
     }
 
 }
