@@ -11,7 +11,10 @@ class MainActivity : AppCompatActivity() {
         //this a develop
     }
 
-    fun sumar(){
-    val number = 1+2+3
+    fun sumar() {
+
+        val number2 = 0
+
+        val number = 1 + 2 + 3
     }
 }
